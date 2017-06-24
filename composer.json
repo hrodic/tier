@@ -1,5 +1,5 @@
 {
-    "name": "pachico/tier",
+    "name": "hrodic/tier",
     "type": "library",
     "description": "Helper class for application tiers definitions",
     "keywords": [
